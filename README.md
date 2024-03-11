@@ -10,6 +10,7 @@ When a user clicks on one of the filter buttons, this retrieves movies by this p
 ## Desktop:
 <img width="600" alt="desktop version" src="https://github.com/becmorrell/movies-react/assets/77584099/ea94bab8-f5c7-4e36-ae04-889381015abc">
 
+## About
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
