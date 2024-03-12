@@ -43,10 +43,11 @@ const MovieDetails = styled.div`
     flex-direction: column;
     gap: 8px;
     padding: 8px 24px 56px 24px;
+    justify-content: center;
 
     @media (min-width: 768px){
-        padding: 122px 88px;
         width: 50%;
+        padding: 8px 88px;
     }
 `
 const ImageContainer = styled.div`
